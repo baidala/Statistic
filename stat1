@@ -1,0 +1,146 @@
+Symbols found: 3471
+Letters statistic:
+Unique: [ 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y' ]
+Matches in text: 
+    a = 268 matches
+    b = 47 matches
+    c = 99 matches
+    d = 164 matches
+    e = 395 matches
+    f = 71 matches
+    g = 78 matches
+    h = 153 matches
+    i = 227 matches
+    j = 2 matches
+    k = 24 matches
+    l = 161 matches
+    m = 81 matches
+    n = 207 matches
+    o = 284 matches
+    p = 82 matches
+    q = 2 matches
+    r = 184 matches
+    s = 178 matches
+    t = 344 matches
+    u = 105 matches
+    v = 39 matches
+    w = 72 matches
+    x = 5 matches
+    y = 85 matches
+
+Numbers statistic:
+Unique: [ '1', '5', '6', '7', '8' ]
+Matches in text: 
+    1 = 2 matches
+    5 = 1 matches
+    6 = 1 matches
+    7 = 2 matches
+    8 = 1 matches
+
+Special symbols statistic:
+Unique: [ '"', ''', ',', '-', '.', ':', ';', '?' ]
+Matches in text: 
+    " = 4 matches
+    ' = 12 matches
+    , = 35 matches
+    - = 2 matches
+    . = 47 matches
+    : = 3 matches
+    ; = 2 matches
+    ? = 2 matches
+
+Words statistic:
+Unique: [ '', 'aboutvaryingtheamountofspacebetweendifferentlettercombinations', 'aboutwhatmakesgreattypographygreat', 'aftersixmonths', 'again', 'and17yearslaterididgotocollege', 'andallofmyworking-classparents'savingswerebeingspentonmycollegetuition', 'andbegindroppinginontheonesthatlookedinteresting', 'andhereiwasspendingallofthemoneymyparentshadsavedtheirentirelife', 'andifounditfascinating', 'andithasmadeallthedifferenceinmylife', 'andiwouldwalkthe7milesacrosstowneverysundaynighttogetonegoodmealaweekattheharekrishnatemple', 'andmuchofwhatistumbledintobyfollowingmycuriosityandintuitionturnedouttobepricelesslateron', 'andpersonalcomputersmightnothavethewonderfultypographythattheydo', 'andshedecidedtoputmeupforadoption', 'andsincewindowsjustcopiedthemac', 'andwedesigneditallintothemac', 'artisticallysubtleinawaythatsciencecan'tcapture', 'becauseihaddroppedoutanddidn'thavetotakethenormalclasses', 'butinaivelychoseacollegethatwasalmostasexpensiveasstanford', 'butitwasvery', 'butlookingbackitwasoneofthebestdecisionsievermade', 'buttenyearslater', 'butthenstayedaroundasadrop-inforanother18monthsorsobeforeireallyquit', 'destiny', 'doyouwanthim', 'everylabeloneverydrawer', 'exceptthatwhenipoppedouttheydecidedatthelastminutethattheyreallywantedagirl', 'gotacallinthemiddleofthenightasking', 'historical', 'iamhonoredtobewithyoutodayatyourcommencementfromoneofthefinestuniversitiesintheworld', 'icouldn'tseethevalueinit', 'idecidedtotakeacalligraphyclasstolearnhowtodothis', 'ididn'thaveadormroom', 'idroppedoutofreedcollegeafterthefirst6months', 'ifihadneverdroppedinonthatsinglecourseincollege', 'ifihadneverdroppedout', 'ihadnoideawhatiwantedtodowithmylifeandnoideahowcollegewasgoingtohelpmefigureitout', 'ilearnedaboutserifandsanseriftypefaces', 'ilovedit', 'inevergraduatedfromcollege', 'ireturnedcokebottlesforthe5depositstobuyfoodwith', 'it'slikelythatnopersonalcomputerwouldhavethem', 'itallcamebacktome', 'itstartedbeforeiwasborn', 'itwasbeautiful', 'itwasn'tallromantic', 'itwasprettyscaryatthetime', 'itwasthefirstcomputerwithbeautifultypography', 'iwouldhaveneverdroppedinonthiscalligraphyclass', 'justthreestories', 'karma', 'letmegiveyouoneexample', 'life', 'mybiologicalmotherlaterfoundoutthatmymotherhadnevergraduatedfromcollegeandthatmyfatherhadnevergraduatedfromhighschool', 'mybiologicalmotherwasayoung', 'nobigdeal', 'noneofthishadevenahopeofanypracticalapplicationinmylife', 'ofcourse', 'ofcourseitwasimpossibletoconnectthedotslookingforwardwheniwasincollege', 'reedcollegeatthattimeofferedperhapsthebestcalligraphyinstructioninthecountry', 'shefeltverystronglythatishouldbeadoptedbycollegegraduates', 'sheonlyrelentedafewmonthslaterwhenmyparentspromisedthatiwouldsomedaygotocollege', 'sherefusedtosignthefinaladoptionpapers', 'soeverythingwasallsetformetobeadoptedatbirthbyalawyerandhiswife', 'soidecidedtodropoutandtrustthatitwouldallworkoutok', 'soisleptonthefloorinfriends'rooms', 'somyparents', 'sowhydididropout', 'soyouhavetotrustthatthedotswillsomehowconnectinyourfuture', 'that'sit', 'thefirststoryisaboutconnectingthedots', 'themacwouldhaveneverhadmultipletypefacesorproportionallyspacedfonts', 'theminuteidroppedouticouldstoptakingtherequiredclassesthatdidn'tinterestme', 'theysaid', 'thisapproachhasneverletmedown', 'thisistheclosesti'veevergottentoacollegegraduation', 'throughoutthecampuseveryposter', 'todayiwanttotellyouthreestoriesfrommylife', 'truthbetold', 'unwedcollegegraduatestudent', 'veryclearlookingbackwardstenyearslater', 'wasbeautifullyhandcalligraphed', 'wehaveanunexpectedbabyboy', 'whatever', 'whenweweredesigningthefirstmacintoshcomputer', 'whowereonawaitinglist', 'youcan'tconnectthedotslookingforward', 'youcanonlyconnectthemlookingbackwards', 'youhavetotrustinsomethingyourgut' ]
+Matches in text: 
+     = 4 matches
+    aboutvaryingtheamountofspacebetweendifferentlettercombinations = 1 matches
+    aboutwhatmakesgreattypographygreat = 1 matches
+    aftersixmonths = 1 matches
+    again = 1 matches
+    and17yearslaterididgotocollege = 1 matches
+    andallofmyworking-classparents'savingswerebeingspentonmycollegetuition = 1 matches
+    andbegindroppinginontheonesthatlookedinteresting = 1 matches
+    andhereiwasspendingallofthemoneymyparentshadsavedtheirentirelife = 1 matches
+    andifounditfascinating = 1 matches
+    andithasmadeallthedifferenceinmylife = 1 matches
+    andiwouldwalkthe7milesacrosstowneverysundaynighttogetonegoodmealaweekattheharekrishnatemple = 1 matches
+    andmuchofwhatistumbledintobyfollowingmycuriosityandintuitionturnedouttobepricelesslateron = 1 matches
+    andpersonalcomputersmightnothavethewonderfultypographythattheydo = 1 matches
+    andshedecidedtoputmeupforadoption = 1 matches
+    andsincewindowsjustcopiedthemac = 1 matches
+    andwedesigneditallintothemac = 1 matches
+    artisticallysubtleinawaythatsciencecan'tcapture = 1 matches
+    becauseihaddroppedoutanddidn'thavetotakethenormalclasses = 1 matches
+    butinaivelychoseacollegethatwasalmostasexpensiveasstanford = 1 matches
+    butitwasvery = 1 matches
+    butlookingbackitwasoneofthebestdecisionsievermade = 1 matches
+    buttenyearslater = 1 matches
+    butthenstayedaroundasadrop-inforanother18monthsorsobeforeireallyquit = 1 matches
+    destiny = 1 matches
+    doyouwanthim = 1 matches
+    everylabeloneverydrawer = 1 matches
+    exceptthatwhenipoppedouttheydecidedatthelastminutethattheyreallywantedagirl = 1 matches
+    gotacallinthemiddleofthenightasking = 1 matches
+    historical = 1 matches
+    iamhonoredtobewithyoutodayatyourcommencementfromoneofthefinestuniversitiesintheworld = 1 matches
+    icouldn'tseethevalueinit = 1 matches
+    idecidedtotakeacalligraphyclasstolearnhowtodothis = 1 matches
+    ididn'thaveadormroom = 1 matches
+    idroppedoutofreedcollegeafterthefirst6months = 1 matches
+    ifihadneverdroppedinonthatsinglecourseincollege = 1 matches
+    ifihadneverdroppedout = 1 matches
+    ihadnoideawhatiwantedtodowithmylifeandnoideahowcollegewasgoingtohelpmefigureitout = 1 matches
+    ilearnedaboutserifandsanseriftypefaces = 1 matches
+    ilovedit = 1 matches
+    inevergraduatedfromcollege = 1 matches
+    ireturnedcokebottlesforthe5depositstobuyfoodwith = 1 matches
+    it'slikelythatnopersonalcomputerwouldhavethem = 1 matches
+    itallcamebacktome = 1 matches
+    itstartedbeforeiwasborn = 1 matches
+    itwasbeautiful = 1 matches
+    itwasn'tallromantic = 1 matches
+    itwasprettyscaryatthetime = 1 matches
+    itwasthefirstcomputerwithbeautifultypography = 1 matches
+    iwouldhaveneverdroppedinonthiscalligraphyclass = 1 matches
+    justthreestories = 1 matches
+    karma = 1 matches
+    letmegiveyouoneexample = 1 matches
+    life = 1 matches
+    mybiologicalmotherlaterfoundoutthatmymotherhadnevergraduatedfromcollegeandthatmyfatherhadnevergraduatedfromhighschool = 1 matches
+    mybiologicalmotherwasayoung = 1 matches
+    nobigdeal = 1 matches
+    noneofthishadevenahopeofanypracticalapplicationinmylife = 1 matches
+    ofcourse = 1 matches
+    ofcourseitwasimpossibletoconnectthedotslookingforwardwheniwasincollege = 1 matches
+    reedcollegeatthattimeofferedperhapsthebestcalligraphyinstructioninthecountry = 1 matches
+    shefeltverystronglythatishouldbeadoptedbycollegegraduates = 1 matches
+    sheonlyrelentedafewmonthslaterwhenmyparentspromisedthatiwouldsomedaygotocollege = 1 matches
+    sherefusedtosignthefinaladoptionpapers = 1 matches
+    soeverythingwasallsetformetobeadoptedatbirthbyalawyerandhiswife = 1 matches
+    soidecidedtodropoutandtrustthatitwouldallworkoutok = 1 matches
+    soisleptonthefloorinfriends'rooms = 1 matches
+    somyparents = 1 matches
+    sowhydididropout = 1 matches
+    soyouhavetotrustthatthedotswillsomehowconnectinyourfuture = 1 matches
+    that'sit = 1 matches
+    thefirststoryisaboutconnectingthedots = 1 matches
+    themacwouldhaveneverhadmultipletypefacesorproportionallyspacedfonts = 1 matches
+    theminuteidroppedouticouldstoptakingtherequiredclassesthatdidn'tinterestme = 1 matches
+    theysaid = 1 matches
+    thisapproachhasneverletmedown = 1 matches
+    thisistheclosesti'veevergottentoacollegegraduation = 1 matches
+    throughoutthecampuseveryposter = 1 matches
+    todayiwanttotellyouthreestoriesfrommylife = 1 matches
+    truthbetold = 1 matches
+    unwedcollegegraduatestudent = 1 matches
+    veryclearlookingbackwardstenyearslater = 1 matches
+    wasbeautifullyhandcalligraphed = 1 matches
+    wehaveanunexpectedbabyboy = 1 matches
+    whatever = 1 matches
+    whenweweredesigningthefirstmacintoshcomputer = 1 matches
+    whowereonawaitinglist = 1 matches
+    youcan'tconnectthedotslookingforward = 1 matches
+    youcanonlyconnectthemlookingbackwards = 1 matches
+    youhavetotrustinsomethingyourgut = 1 matches
+
+
